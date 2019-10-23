@@ -1,0 +1,7 @@
+# AWS Free Tier - Blindspots
+A curated list of blindspots which you need to consider while using an AWS Free Tier account
+
+
+
+
+_P.S. This article is based on my experiences and facts read in the AWS Documentation or on the Internet._
